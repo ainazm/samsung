@@ -1,0 +1,760 @@
+div.wrapper>div.header{
+    width: 100%;
+    height: 77px;
+    background-color: whitesmoke;
+
+   
+
+}
+div.wrapper>div.header>div.logo{
+    width: 13%;
+    height: inherit; 
+    display: inline-block;
+    vertical-align: top;
+
+}
+div.wrapper>div.header>div.logo>a>img{
+    width: 70%;
+    height: 40px;
+    margin: 15px;
+}
+div.wrapper>div.header>div.menu1{
+    width: 57%;
+    height: inherit;
+    display: inline-block;
+    vertical-align: top;
+   
+ 
+}
+div.wrapper>div.header>div.menu1>nav{
+    width: 100%;
+    height: inherit;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul{
+    width: 100%;
+    height: inherit;
+   
+
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li{
+    display: inline-block;
+    vertical-align: top;
+    line-height: 77px;
+    
+    
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    padding: 10px 15px;
+   
+}
+
+div.wrapper>div.header>div.menu1>nav>ul>li:hover>a{
+    background-color: black;
+    border-radius: 15px;
+}
+
+div.wrapper>div.header>div.menu1>nav>ul>li>div.shop-menu{
+    width: 1350px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 79px;
+    left: 40px;
+    z-index: 60;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: none;
+    padding-bottom: 20px;
+     
+    
+   
+    
+}
+div.wrapper>div.header>div.menu1>nav>ul>li:hover>div.shop-menu{
+    display: block;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.shop-menu>div{
+    width: 215px;
+    height: inherit;
+    background-color: whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.shop-menu>div>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 60px;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.shop-menu>div>ul{
+    margin-left: 20px;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.shop-menu>div>ul>h2.titr{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 1px;
+    margin-top: 30px;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.shop-menu>div>ul>li{
+    margin-top: 10px;
+   line-height: 25px
+   
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.shop-menu>div>ul>li:hover>a{
+    font-weight: 600;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.shop-menu>div>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+    
+}
+
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu{
+    width: 620px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 79px;
+    left: 270px;
+    z-index: 60;
+    display: none;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-bottom: 15px;
+    
+   
+
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li:hover>div.mobile-menu{
+    display: block;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu>div.list{
+    width: 37%;
+    height: inherit;
+    background-color:whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+    border-right: 1px solid lightgray;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu>div>ul{
+    margin-left: 20px;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu>div.list>ul>li{
+    margin-top: 18px;
+    line-height: 25px;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu>div.list>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu>div.list>ul>li:hover>a{
+    font-weight: 600;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu>div.aks{
+    width: 62%;
+    height: inherit;
+    background-color:whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+
+   
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu>div.aks>div{
+    width: 115px;
+    height: 130px;
+    background-color:lightgray;
+    border-radius: 15px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px;
+    text-align: center;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu>div.aks>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+   
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu>div.aks>div>a>img{
+    width: 100px;
+    height: 80px;
+    margin-top: 10px;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu>div.aks>div>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+    position: relative;
+ 
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.mobile-menu>div.aks>div>a>p.p01{
+    position: absolute;
+    top:0;
+    left: 5px;
+   
+}
+
+div.wrapper>div.header>div.menu1>nav>ul>li>div.tv-menu{
+    width: 1350px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 79px;
+    left: 40px;
+    z-index: 60;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: none;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li:hover>div.tv-menu{
+    display: block;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.tv-menu>div{
+    width: 215px;
+    height: inherit;
+    background-color:whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.tv-menu>div>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 60px;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.tv-menu>div>ul>li{
+    margin-top: 8px;
+    margin-left: 20px;
+    line-height: 25px;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.tv-menu>div>ul>li:hover>a{
+    font-weight: 600;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.tv-menu>div>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+        
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.tv-menu>div>ul>h2.titr{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 15px;
+    margin-top: 10px;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.app-menu{
+    width: 1350px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 79px;
+    left: 40px;
+    z-index: 60;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: none;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li:hover>div.app-menu{
+    display: block;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.app-menu>div{
+    width: 215px;
+    height: inherit;
+    background-color:whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+   
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.app-menu>div>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 60px;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.app-menu>div>ul>li{
+    margin-top: 8px;
+    margin-left: 20px;
+    line-height: 25px;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.app-menu>div>ul>li:hover>a{
+    font-weight: 600;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.app-menu>div>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+        
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.app-menu>div>ul>h2.titr{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 15px;
+    margin-top: 10px;
+   
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.comp-menu{
+    width: 1350px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 79px;
+    left: 40px;
+    z-index: 60;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: none;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li:hover>div.comp-menu{
+    display: block;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.comp-menu>div{
+    width: 215px;
+    height: inherit;
+    background-color:whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+   
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.comp-menu>div>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 60px;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.comp-menu>div>ul>li{
+    margin-top: 8px;
+    margin-left: 20px;
+    line-height: 25px;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.comp-menu>div>ul>li:hover>a{
+    font-weight: 600;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.comp-menu>div>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+        
+}
+
+div.wrapper>div.header>div.menu1>nav>ul>li>div.dis-menu{
+    width: 1350px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 79px;
+    left: 40px;
+    z-index: 60;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: none;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li:hover>div.dis-menu{
+    display: block;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.dis-menu>div{
+    width: 215px;
+    height: inherit;
+    background-color:whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+   
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.dis-menu>div>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 60px;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.dis-menu>div>ul>li{
+    margin-top: 8px;
+    margin-left: 20px;
+    line-height: 25px;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.dis-menu>div>ul>li:hover>a{
+    font-weight: 600;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.dis-menu>div>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+        
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.acc-menu{
+    width: 1150px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 79px;
+    left: 40px;
+    z-index: 60;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: none;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li:hover>div.acc-menu{
+    display: block;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.acc-menu>div{
+    width: 215px;
+    height: inherit;
+    background-color:whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+   
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.acc-menu>div>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 60px;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.acc-menu>div>ul>li{
+    margin-top: 8px;
+    margin-left: 20px;
+    line-height: 25px;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.acc-menu>div>ul>li:hover>a{
+    font-weight: 600;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.acc-menu>div>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.smart-menu{
+    width: 450px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 79px;
+    left: 850px;
+    z-index: 60;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: none;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li:hover>div.smart-menu{
+    display: block;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.smart-menu>div{
+    width: 215px;
+    height: inherit;
+    background-color:whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+   
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.smart-menu>div>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 60px;
+
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.smart-menu>div>ul>li{
+    margin-top: 8px;
+    margin-left: 20px;
+    line-height: 25px;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.smart-menu>div>ul>li:hover>a{
+    font-weight: 600;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li>div.smart-menu>div>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+        
+}
+
+
+
+/* right-menu */
+
+
+div.wrapper>div.header>div.menu2{
+    width: 18%;
+    height: inherit;
+    display: inline-block;
+    vertical-align: top;
+
+}
+div.wrapper>div.header>div.menu2>nav{
+    width: 100%;
+    height: inherit;
+
+}
+div.wrapper>div.header>div.menu2>nav>ul{
+    width: 100%;
+    height: inherit;
+   
+}
+div.wrapper>div.header>div.menu2>nav>ul>li{
+    display: inline-block;
+    vertical-align: top;
+   line-height: 77px;
+   
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    padding: 10px 5px;
+}
+
+div.wrapper>div.header>div.menu2>nav>ul>li:hover>a{
+    background-color: black;
+    border-radius: 25px;
+}
+div.wrapper>div.header>div.menu1>nav>ul>li:hover>a{
+    color: whitesmoke;
+}
+
+div.wrapper>div.header>div.menu2>nav>ul>li:hover>a{
+    color: whitesmoke;
+}
+
+
+
+
+div.wrapper>div.header>div.menu2>nav>ul>li>div.ex-menu{
+    width: 1150px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 79px;
+    left: 220px;
+    z-index: 60;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: none;
+    padding-bottom: 20px;
+}
+div.wrapper>div.header>div.menu2>nav>ul>li:hover>div.ex-menu{
+    display: block;
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.ex-menu>div{
+    width: 215px;
+    height: inherit;
+    background-color:whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px;
+   
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.ex-menu>div>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+    height: 40px;
+
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.ex-menu>div>ul>li{
+    margin-top: 8px;
+    margin-left: 20px;
+    line-height: 25px;
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.ex-menu>div>ul>li:hover>a{
+    font-weight: 600;
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.ex-menu>div>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.ex-menu>div>ul>h2.titr{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 15px;
+    margin-top: 20px;
+   
+
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.sup-menu{
+    width: 1350px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 79px;
+    left: 40px;
+    z-index: 60;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: none;
+    padding-bottom: 20px;
+     
+}
+div.wrapper>div.header>div.menu2>nav>ul>li:hover>div.sup-menu{
+    display: block;
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.sup-menu>div{
+    width: 215px;
+    height: inherit;
+    background-color: whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.sup-menu>div>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+
+div.wrapper>div.header>div.menu2>nav>ul>li>div.sup-menu>div>ul{
+    margin-left: 20px;
+
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.sup-menu>div>ul>li{
+    margin-top: 10px;
+   line-height: 25px
+   
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.sup-menu>div>ul>li:hover>a{
+    font-weight: 600;
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.sup-menu>div>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+    
+}
+
+
+
+
+div.wrapper>div.header>div.menu2>nav>ul>li>div.bus-menu{
+    width: 1350px;
+    height: auto;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 79px;
+    left: 40px;
+    z-index: 60;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: none;
+    padding-bottom: 20px;
+     
+}
+div.wrapper>div.header>div.menu2>nav>ul>li:hover>div.bus-menu{
+    display: block;
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.bus-menu>div{
+    width: 215px;
+    height: inherit;
+    background-color: whitesmoke;
+    display: inline-block;
+    vertical-align: top;
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.bus-menu>div>h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+
+div.wrapper>div.header>div.menu2>nav>ul>li>div.bus-menu>div>ul{
+    margin-left: 20px;
+
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.bus-menu>div>ul>li{
+    margin-top: 10px;
+   line-height: 25px
+   
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.bus-menu>div>ul>li:hover>a{
+    font-weight: 600;
+}
+div.wrapper>div.header>div.menu2>nav>ul>li>div.bus-menu>div>ul>li>a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: black;
+    
+}
+
+
+
+
+div.wrapper>div.header>div.icon{
+    width: 11%;
+    height: inherit;
+   padding: 22px;
+   
+    display: inline-block;
+    vertical-align: top;
+    cursor: pointer;
+
+}
+div.wrapper>div.header>div.icon>i{
+    margin: 8px;
+    position: relative;
+   
+}
+
+div.wrapper>div.header>div.icon>i>div.user{
+    position: absolute;
+    display: none;
+    width: 220px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    top: 30px;
+    right: 0;
+    z-index: 60;
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
+div.wrapper>div.header>div.icon>i:hover>div.user{
+    display: block;
+}
+div.wrapper>div.header>div.icon>i>div.user>nav>ul>li{
+    line-height: 35px;
+    margin: 10px 10px;
+
+}
+div.wrapper>div.header>div.icon>i>div.user>nav>ul>li>a{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: 100;
+}
+div.wrapper>div.header>div.icon>i>div.user>nav>ul>li:hover>a{
+    font-weight: 600;
+    
+}
